@@ -10,12 +10,21 @@ Since Snapseed is a mobile application, the Android emulator Bluestacks is used 
 The filters we used to create our retouched images (see Figure 1) are numbered as follows:
 
 01 Original – original image
+
 02 Smooth – blur
+
 03 Pop – higher contrast
+
 04 Accentuate – higher contrast and more intensive colours
+
 05 Morning – bottom part of image has warm colouring
+
 06 DramaDark – higher contrast, image will be darker
+
 07 Vintage – Vintage Look, brown-filter
+
 08 Retrolux8 – image gets a used look, like old pictures
+
 09 Crunch3 – image gets a texture and dark vignette
+
 10 Grain104 – grain is added to image
