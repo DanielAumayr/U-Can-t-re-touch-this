@@ -1,11 +1,11 @@
 # U-Can-t-re-touch-this
 Data set of the paper U-Can't (re)touch this – A Deep Learning
-Approach for Detecting Image Retouching from Daniela Aumayr and Pascal Schöttle.
+Approach for Detecting Image Retouching from Daniela Aumayr and Pascal Schöttle for [ICIAP2021](https://www.iciap2021.org/).
 
 ## Data set
 
-First, we used scikit-image (skimage) to crop the original images from RAISE to a square format, resize them to 256x256 pixel and then save them in JPEG format with quality factor 100.
-Since Snapseed is a mobile application, the Android emulator Bluestacks is used to edit the photos with Snapseed. In Snapseed, we processed the 1 000 images with nine different filters, creating a data set of 10 000 images in total.
+First, we used scikit-image (skimage) to crop the original images from [RAISE](http://loki.disi.unitn.it/RAISE/) to a square format, resize them to 256x256 pixel and then save them in JPEG format with quality factor 100.
+Since Snapseed is a mobile application, the Android emulator [Bluestacks](https://www.bluestacks.com/de/index.html) is used to edit the photos with [Snapseed](https://snapseed.online/). In Snapseed, we processed the 1 000 images with nine different filters, creating a data set of 10 000 images in total.
 
 The filters we used to create our retouched images (see Figure 1) are numbered as follows:
 
