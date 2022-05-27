@@ -2,6 +2,8 @@
 Data set of the paper U-Can't (re)touch this – A Deep Learning
 Approach for Detecting Image Retouching from Daniela Aumayr and Pascal Schöttle for [ICIAP2021](https://www.iciap2021.org/).
 
+https://doi.org/10.1007/978-3-031-06430-2_11
+
 ## Data set
 
 First, we used scikit-image (skimage) to crop the original images from [RAISE](http://loki.disi.unitn.it/RAISE/) to a square format, resize them to 256x256 pixel and then save them in JPEG format with quality factor 100.
